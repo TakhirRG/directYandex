@@ -1,2 +1,2 @@
 # directYandex
-download row data from Direct App Yandex
+download row data from Direct App Yandex to database
